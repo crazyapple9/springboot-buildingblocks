@@ -1,0 +1,13 @@
+Bash Commands for the Springboot-Buildingblocks Project
+
+1st - Go to the actual folder location where you have the code in your local using the command
+
+cd /d/Java/Springboot_WorkSpace/Udemy_Kalyan_Reddy/springboot-buildingblocks/springboot-buildingblocks
+
+If you want to change the directory from current one to another, first move out from the current one using the command "cd<space>.."
+
+cd ..
+
+This will change to the directory right before
+
+
